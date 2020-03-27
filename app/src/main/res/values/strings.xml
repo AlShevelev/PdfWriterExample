@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PdfWriter</string>
+
+    <string name="pdf_title">demo</string>
+    <string name="pdf_created_for">Created for</string>
+    <string name="pdf_on">on</string>
+    <string name="pdf_instruction">1. Print out this document (and/or put it on a USB stick or external drive).\n2. Fill in your Master Password below.\n3. Store your kit in a secure place that you can quickly access at any time, e.g. a safe deposit box.</string>
+    <string name="pdf_phone_number_label">Phone number</string>
+    <string name="pdf_user_id_label">User id</string>
+    <string name="pdf_username_label">Username</string>
+    <string name="pdf_password">Password</string>
+    <string name="pdf_important_note">Important to note that we don’t keep and can’t restore your password. Please make sure\nyou keep your password in a safe place, and nobody else would have access to it.</string>
+    <string name="pdf_active">Active</string>
+    <string name="pdf_owner">Owner</string>
+    <string name="pdf_setup_code">Setup code</string>
+    <string name="pdf_scan_code">Scan the code of Demo apps to\nset up your account quickly</string>
+    <string name="pdf_need_help">Need help?</string>
+    <string name="pdf_support_email">support@demo.com</string>
+    
+    <string-array name="pdf_day_end">
+        <item>st</item>
+        <item>nd</item>
+        <item>rd</item>
+        <item>th</item>
+    </string-array>
+
+    <string name="create_pdf">Create PDF</string>
+    <string name="permission_explanation">WRITE_EXTERNAL_STORAGE permission must be granted. It\'s \"out of scope\" of this demo application, so you should do it manually.</string>
+</resources>
